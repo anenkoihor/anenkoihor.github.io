@@ -1,0 +1,254 @@
+@media(max-width: 1335px){
+	.robot{
+		display: none;
+	}
+	.arguments{
+		flex-wrap: wrap;
+	}
+	.team{
+		width: 100%;
+	}
+	.team2{
+		padding-top: 0;
+	}
+	.man img{
+		display: none;
+	}	
+	.cool-students p{
+		margin: 0 auto;
+	}
+}
+@media(max-width: 1215px) {
+	.navbar-menu{
+		padding: 50px 15px 0;
+	}
+	.follow{
+		right: -200px;
+	}	
+	.textandbutton{
+		padding-left: 15px;
+	}
+	.cat{
+		display: none;
+	}
+	.item1{
+		padding: 37px 40px 64px;
+		max-width: 364px;
+		height: auto;
+		margin: 28px auto;
+	}
+	.contacts{
+		padding-bottom: 225px;
+	}
+	
+	
+}
+@media(max-width: 1075px){
+	.follow{
+		display: none;
+	}
+	.down{
+		display: none;
+	}
+	.man h4:before{
+		display: none;
+
+	}
+	.man h4:after{
+		display: none;		
+	}
+	.team2 .frame{
+		width: 286px;
+	}
+	.imgrocket{
+		display: none;
+	}
+	.rocketandtext{
+		margin:0;
+	}
+	.textandbutton{
+		max-width: 444px;
+		margin: 105px auto 0;
+		width: 100%;
+	}
+	.textandbutton .button {
+		margin: 0 auto;
+	}
+	.textandbutton h1{
+		text-align: center;
+	}
+	
+	.logo-block1 img {
+		margin-right: 30px;
+	}
+	.left-item{
+		width: 100%;
+	}
+	.studyprogram{
+		margin: 37px auto;
+	}
+	.whatlearnchildren {
+		padding-top: 75px;
+	}
+
+	.form_studying_items img{
+		display: none;
+	}
+	.form_studying_items {
+		flex-direction: column;
+		align-items: center;
+	}
+	.form_studying {
+		min-height: auto;
+		padding-bottom: 20px;
+	}
+	.right-robot{
+		display: none;
+	}
+	.left-robot{
+		display: none;
+	}
+	.teachers{
+		justify-content: space-around;
+	}
+}
+
+@media(max-width: 960px) {
+	header{
+		background: url(../img/background/fon1-960.png);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center center;
+		min-height: auto;
+		padding-bottom: 40px;
+	}
+	.navbar-menu{
+		flex-direction: column;
+		align-items: center;
+	}
+	.nm ul{
+		display:block;
+	}
+	.icons-social-network a {
+		padding: 0 20px;
+	}
+	.text{
+		padding-top: 0;
+		max-width: 525px;
+	}
+	.head .button{
+		margin: 0 auto;
+	}
+	.skills{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.skill-items{
+		max-width: 100%;
+	}
+	.studying {
+		margin-top: 0;		
+		min-height: auto;
+		padding-bottom: 20px;
+
+	}
+	.studying h1{
+		font-size: 30px;
+	}
+	.form_studying h1{
+		font-size: 30px;
+	}
+	.teachers{
+		flex-direction: column;
+		
+	}
+	.teacher-item{
+		margin: 20px;
+	}
+	.teachers{
+		margin-top:0;
+	}
+	.reviews{
+		margin-top: 0;
+		min-height: auto;
+		padding-bottom: 20px;
+	}
+	.reviews h1{
+		padding-bottom: 0;
+		font-size: 30px;
+	}
+	.teacher-section {
+		margin-top: 0;
+	}
+	.photoandform img{
+		display:none;
+	}
+	.cool-students p{
+		padding: 50px 15px 0;
+	}
+	.cool-students {
+		background: #a801ff;
+		padding: 50px 15px;
+	}
+
+	.contacts h1 {
+		font-size: 30px;
+	}
+}
+@media(max-width: 545px){
+	.head{
+		margin: 0 auto;
+		max-width: 395px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.text h1{
+		font-size: 30px;
+		text-align: center;
+	}
+	.text h2{
+		font-size: 16px;
+		text-align: center;
+	}
+	.skill-items{
+		flex-direction: column;
+		padding-left: 7px;		
+	}
+	.skill-items h5{
+		text-align: left;
+		padding-right:10px; 
+		font-size: 18px;
+
+	}
+	.skill {
+		max-width: 100%;
+	}
+
+	.skill .img{
+		min-width: 90px;
+	}
+	.frame{
+		margin: 15px;
+	}
+	.why_we h1{
+		font-size: 25px;	
+	}
+	.textandbutton{
+		padding-left: 0;
+	}
+	.whatlearnchildren h1{
+		font-size: 30px;
+	}
+	.logo-block1 img {
+		margin-right: 30px;
+	}
+	.form_studying_item-2{
+		height: auto;
+	}
+	.photoandform form{
+		width: 100%;
+	}
+	.photoandform input {
+		width: 300px;
+	}
+}

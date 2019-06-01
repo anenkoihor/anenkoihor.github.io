@@ -12,7 +12,7 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'Geometria-Bold';
+  font-family: 'Geometria';
   src: url('../geometria/Geometria-Bold.eot');
   src: url('../geometria/Geometria-Bold.eot?#iefix') format('embedded-opentype'),
   url('../geometria/Geometria-Bold.svg#Geometria-Bold') format('svg'),
@@ -24,7 +24,7 @@
 }
 
 @font-face {
-  font-family: 'Geometria-ExtraBold';
+  font-family: 'Geometria';
   src: url('../geometria/Geometria-ExtraBold.eot');
   src: url('../geometria/Geometria-ExtraBold.eot?#iefix') format('embedded-opentype'),
   url('../geometria/Geometria-ExtraBold.svg#Geometria-ExtraBold') format('svg'),
@@ -35,7 +35,7 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'Geometria-Light';
+  font-family: 'Geometria';
   src: url('../geometria/Geometria-Light.eot');
   src: url('../geometria/Geometria-Light.eot?#iefix') format('embedded-opentype'),
   url('../geometria/Geometria-Light.svg#Geometria-Light') format('svg'),
@@ -47,7 +47,7 @@
 }
 
 @font-face {
-  font-family: 'Geometria-Medium';
+  font-family: 'Geometria';
   src: url('../geometria/Geometria-Medium.eot');
   src: url('../geometria/Geometria-Medium.eot?#iefix') format('embedded-opentype'),
   url('../geometria/Geometria-Medium.svg#Geometria-Medium') format('svg'),
@@ -1134,7 +1134,7 @@ form {
   background: #c88aff;
 }
 .contacts h1 {
-  font-family: 'Geometria-Bold';
+  font-family: 'Geometria';
   font-weight: bold;
   font-style: normal;
   font-size: 50px;
